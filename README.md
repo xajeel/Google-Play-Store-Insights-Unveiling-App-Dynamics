@@ -10,7 +10,7 @@ This project involves an in-depth analysis of the Google Play Store dataset usin
 - Analyze app categories, installations, and user reviews to derive meaningful insights.
 - Create visualizations to present findings and patterns within the Google Play Store dataset.
 - Identify trends in app categories and pricing models to understand user preferences and engagement dynamics.
-- 
+  
 ## Tools Used: 
 
 - Python
